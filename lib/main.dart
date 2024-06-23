@@ -4,7 +4,7 @@ class StateTeksUtama extends State<TeksUtama> {
   var listNama = [
     'ADIT FEBRI NUR HIDAYAT',
     'SHAFIRA INDES PRAFITRI',
-    'SULISTIYO',
+    'AGUS',
     'TRI RAHAYU',
     'MUARIF SUBEKHI'
   ];
